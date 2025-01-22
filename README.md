@@ -8,18 +8,18 @@ I'm a passionate software engineer with a strong foundation in systems programmi
 ### C Programming
 I have a solid foundation in low-level programming with C, demonstrated through projects like:
 - **[printf](https://github.com/AbdeljallilOuafi/printf)**: Custom implementation of the printf function from scratch, showcasing deep understanding of C's memory management and variadic functions
-- **[simple_shell](https://github.com/AbdeljallilOuafi/simple_shell)**: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management
+- **[simple_shell](https://github.com/AbdeljalilOuafi/simple_shell)**: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management
 
 ### Web Development
 
 #### Python & Django Rest Framework
 I've built several production-ready marketplaces using Python and DRF:
 - **[Prime-Eats](https://github.com/AbdeljallilOuafi/Prime-Eats)**: A community-driven platform connecting restaurant owners with food enthusiasts
-- **[Craftitori](https://github.com/AbdeljallilOuafi/Craftitori)**: An online marketplace for artisans featuring integrated PayPal payments and order management
+- **[Crafitori](https://github.com/AbdeljallilOuafi/Crafitori)**: An online marketplace for artisans featuring integrated PayPal payments and order management
 
 #### Node.js & Express
 Actively expanding my Node.js expertise:
-- **[alx-files_manager](https://github.com/AbdeljallilOuafi/alx-files_manager)**: A robust file management API built with Node.js, Express, MongoDB, and Redis
+- **[alx-files_manager](https://github.com/AbdeljalilOuafi/alx-files_manager)**: A robust file management API built with Node.js, Express, MongoDB, and Redis
 - 🔨 **Currently Working On**: A full-featured social media platform inspired by Facebook's architecture
 
 ## 🛠 Tech Stack
