@@ -19,20 +19,6 @@ I have a solid foundation in low-level programming with C, demonstrated through 
 ---
 
 <details>
-<summary><strong>Python & Django REST Framework</strong></summary>
-
-<br> 
-
-
-I've built several production-ready marketplaces using Python and DRF:
-- **[Prime-Eats](https://github.com/AbdeljallilOuafi/Prime-Eats)**: A community-driven platform connecting restaurant owners with food enthusiasts.
-- **[Crafitori](https://github.com/AbdeljalilOuafi/Crafitori)**: An online marketplace for artisans featuring integrated PayPal payments and order management.
-
-</details>
-
----
-
-<details>
 <summary><strong>Flask</strong></summary>
 
 <br> 
@@ -41,6 +27,20 @@ I've built several production-ready marketplaces using Python and DRF:
 
 I created a full-stack **Airbnb Clone** using Flask, showcasing end-to-end development skills:
 - **[Airbnb Clone](https://github.com/AbdeljalilOuafi/Airbnb-clone)**: Implemented backend services in Flask, user authentication, dynamic search, and a responsive frontend.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Python & Django REST Framework</strong></summary>
+
+<br> 
+
+
+I've built several production-ready marketplaces using Python and DRF:
+- **[Prime-Eats](https://github.com/AbdeljallilOuafi/Prime-Eats)**: A community-driven platform connecting restaurant owners with food enthusiasts.
+- **[Crafitori](https://github.com/AbdeljalilOuafi/Crafitori)**: An online marketplace for artisans featuring integrated PayPal payments and order management.
 
 </details>
 
