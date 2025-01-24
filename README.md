@@ -10,7 +10,8 @@ I have a solid foundation in low-level programming with C, demonstrated through 
 - **[simple_shell](https://github.com/AbdeljalilOuafi/simple_shell)**: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management
 </details>
 
-<details><summary>### Web Development</summary>
+<details>
+<summary> ### Web Development </summary>
 
 #### Python & Django Rest Framework
 I've built several production-ready marketplaces using Python and DRF:
