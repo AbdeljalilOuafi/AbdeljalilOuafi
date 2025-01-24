@@ -142,11 +142,14 @@ I believe in continuous learning and growth. While I'm comfortable with Python a
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a chat about technology!
 <p align="left">
-  <a href="https://twitter.com/your_handle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/your_profile" target="blank">
+  <a href="https://www.linkedin.com/in/abdeljalil-ouafi-8036a7266/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:cv.abdeljalilouafi@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" width="40" />
+  </a>
+  <a href="https://discord.com/users/358664072377532417" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
   </a>
 </p>
 
