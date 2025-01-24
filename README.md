@@ -2,11 +2,15 @@
 
 <div style="text-align: left;">
 
-<p>I'm a passionate software engineer with a strong foundation in systems programming and a growing expertise in web development. My journey started with C programming, where I built complex systems from scratch, and continues to evolve as I explore modern web technologies.</p>
+<p>I'm a passionate software engineer from Morocco <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg"> with a strong foundation in systems programming and a growing expertise in web development. My journey started with C programming, where I built complex systems from scratch, and continues to evolve as I explore modern web technologies.</p>
 
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdeljalilOuafi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_views" /> </p>
+
+- 🔭 I’m currently working on [Threadly](https://github.com/AbdeljalilOuafi/Threadly) – A scalable social media platform built with modern technologies.
+- 🌱 I’m currently learning **React.js**
+- 📫 How to reach me: **cv.abdeljalilouafi@gmail.com**
 
 ## 💻 Core Experience
 
