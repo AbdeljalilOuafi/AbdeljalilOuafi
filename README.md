@@ -1,26 +1,45 @@
 # Hi there! 👋 I'm Ouafi
 
-## 🚀 About Me
 I'm a passionate software engineer with a strong foundation in systems programming and a growing expertise in web development. My journey started with C programming, where I built complex systems from scratch, and continues to evolve as I explore modern web technologies.
 
 ## 💻 Core Experience
 
-### C Programming
+<details><summary>### C Programming</summary>
 I have a solid foundation in low-level programming with C, demonstrated through projects like:
 - **[printf](https://github.com/AbdeljallilOuafi/printf)**: Custom implementation of the printf function from scratch, showcasing deep understanding of C's memory management and variadic functions
 - **[simple_shell](https://github.com/AbdeljalilOuafi/simple_shell)**: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management
+</details>
 
-### Web Development
+<details><summary>### Web Development</summary>
 
 #### Python & Django Rest Framework
 I've built several production-ready marketplaces using Python and DRF:
 - **[Prime-Eats](https://github.com/AbdeljallilOuafi/Prime-Eats)**: A community-driven platform connecting restaurant owners with food enthusiasts
 - **[Crafitori](https://github.com/AbdeljallilOuafi/Crafitori)**: An online marketplace for artisans featuring integrated PayPal payments and order management
+</details>
 
 #### Node.js & Express
 Actively expanding my Node.js expertise:
-- **[alx-files_manager](https://github.com/AbdeljalilOuafi/alx-files_manager)**: A robust file management API built with Node.js, Express, MongoDB, and Redis
+- **[Files_Manager](https://github.com/AbdeljalilOuafi/alx-files_manager)**: A robust file management API built with Node.js, Express, MongoDB, and Redis
 - 🔨 **Currently Working On**: A full-featured social media platform inspired by Facebook's architecture
+
+### 🛠 DevOps Expertise
+I've built a solid foundation in DevOps, mastering essential concepts and tools to manage, automate, and optimize infrastructure. My hands-on experience spans:
+- **Shell Scripting**: Mastered Shell Basics, Permissions, Redirections, Variables & Expansions, and advanced topics like Loops, Conditions & Parsing.- **Processes & Signals:** Comprehensive understanding of process management and signal handling.  
+- **Networking Basics:** Explored **TCP/IP fundamentals**, **DNS**, **ports**, and advanced topics in **Networking Basics 2**.  
+- **Regular Expressions:** Proficient in writing regex patterns for data parsing, validation, and transformations.  
+- **Web Infrastructure Design:** Conceptualized and documented scalable and resilient web architecture.  
+- **Configuration Management:** Hands-on experience with **Puppet**, automating deployment and ensuring consistency across systems. 
+- **SSH:** Expertise in secure remote server management and key-based authentication.  
+- **Web Servers & Load Balancing:** Proficient in setting up and configuring **Nginx**, **HAProxy**, and application servers.  
+- **HTTPS & SSL:** Implemented SSL certificates and enforced HTTPS for secure web communication.  
+- **Firewall Management:** Configured firewalls to secure systems and control access.  
+- **Database Management:** Deployed and managed **MySQL** databases for web and application data.  
+- **APIs & Monitoring:** Built RESTful APIs (**API & API Advanced**) and implemented **Webstack Monitoring** to ensure uptime and performance.  
+- **Incident Response:** Prepared **Postmortems** to document and learn from outages and incidents.
+
+You can explore my DevOps journey in detail through my repository: [alx-system_engineering-devops](https://github.com/AbdeljalilOuafi/alx-system_engineering-devops).
+
 
 ## 🛠 Tech Stack
 <p align="center">
