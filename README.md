@@ -2,7 +2,7 @@
 
 <div style="text-align: left;">
 
-I'm a passionate software engineer with a strong foundation in systems programming and a growing expertise in web development. My journey started with C programming, where I built complex systems from scratch, and continues to evolve as I explore modern web technologies.
+<p><strong>I'm a passionate software engineer with a strong foundation in systems programming and a growing expertise in web development. My journey started with C programming, where I built complex systems from scratch, and continues to evolve as I explore modern web technologies.</strong></p>
 
 </div>
 
