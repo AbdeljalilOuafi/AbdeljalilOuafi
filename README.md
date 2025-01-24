@@ -7,6 +7,9 @@ I'm a passionate software engineer with a strong foundation in systems programmi
 <details>
 <summary><strong>C Programming</strong></summary>
 
+<br> 
+
+
 I have a solid foundation in low-level programming with C, demonstrated through projects like:
 - <a href="https://github.com/AbdeljallilOuafi/printf"><strong>printf</strong></a>: Custom implementation of the printf function from scratch, showcasing a deep understanding of C's memory management and variadic functions.
 - <a href="https://github.com/AbdeljallilOuafi/simple_shell"><strong>simple_shell</strong></a>: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management.
@@ -18,6 +21,9 @@ I have a solid foundation in low-level programming with C, demonstrated through 
 <details>
 <summary><strong>Python & Django REST Framework</strong></summary>
 
+<br> 
+
+
 I've built several production-ready marketplaces using Python and DRF:
 - **[Prime-Eats](https://github.com/AbdeljallilOuafi/Prime-Eats)**: A community-driven platform connecting restaurant owners with food enthusiasts.
 - **[Crafitori](https://github.com/AbdeljalilOuafi/Crafitori)**: An online marketplace for artisans featuring integrated PayPal payments and order management.
@@ -27,21 +33,28 @@ I've built several production-ready marketplaces using Python and DRF:
 ---
 
 <details>
-<summary><strong>Node.js & Express</strong></summary>
+<summary><strong>Flask</strong></summary>
 
-Actively expanding my Node.js expertise:
-- **[Files_Manager](https://github.com/AbdeljalilOuafi/alx-files_manager)**: A robust file management API built with Node.js, Express, MongoDB, and Redis.
-- 🔨 **Currently Working On**: A full-featured social media platform inspired by Facebook's architecture.
+<br> 
+
+
+
+I created a full-stack **Airbnb Clone** using Flask, showcasing end-to-end development skills:
+- **[Airbnb Clone](https://github.com/AbdeljalilOuafi/Airbnb-clone)**: Implemented backend services in Flask, user authentication, dynamic search, and a responsive frontend.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Flask</strong></summary>
+<summary><strong>Node.js & Express</strong></summary>
 
-I created a full-stack **Airbnb Clone** using Flask, showcasing end-to-end development skills:
-- **[Airbnb Clone](https://github.com/AbdeljalilOuafi/Airbnb-clone)**: Implemented backend services in Flask, user authentication, dynamic search, and a responsive frontend.
+<br> 
+
+
+Actively expanding my Node.js expertise:
+- **[Files_Manager](https://github.com/AbdeljalilOuafi/alx-files_manager)**: A robust file management API built with Node.js, Express, MongoDB, and Redis.
+- 🔨 **Currently Working On**: A full-featured social media platform inspired by Facebook's architecture.
 
 </details>
 
