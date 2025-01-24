@@ -4,10 +4,13 @@ I'm a passionate software engineer with a strong foundation in systems programmi
 
 ## 💻 Core Experience
 
-<details><summary>### C Programming</summary>
+<details>
+<summary><strong>C Programming</strong></summary>
+
 I have a solid foundation in low-level programming with C, demonstrated through projects like:
-- **[printf](https://github.com/AbdeljallilOuafi/printf)**: Custom implementation of the printf function from scratch, showcasing deep understanding of C's memory management and variadic functions
-- **[simple_shell](https://github.com/AbdeljalilOuafi/simple_shell)**: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management
+- <a href="https://github.com/AbdeljallilOuafi/printf"><strong>printf</strong></a>: Custom implementation of the printf function from scratch, showcasing a deep understanding of C's memory management and variadic functions.
+- <a href="https://github.com/AbdeljallilOuafi/simple_shell"><strong>simple_shell</strong></a>: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management.
+
 </details>
 
 <details>
