@@ -126,10 +126,9 @@ You can explore my DevOps journey in detail through my repository: [alx-system_e
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/haproxy.svg" alt="haproxy" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ansible_icon_130784.png" alt="ansible" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png" alt="haproxy" width="40" height="40"/>
   <!-- Monitoring Tools -->
-  <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/datadog_logo_icon_137632.png" alt="datadog" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/1200px-Datadog_logo.svg.png" alt="datadog" width="40" height="40"/>
 </p>
 
 
