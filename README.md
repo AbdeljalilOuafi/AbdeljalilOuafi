@@ -99,7 +99,7 @@ You can explore my DevOps journey in detail through my repository: [alx-system_e
 </details>
 
 
-## Languages and Tools:
+## Languages and Tools
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
