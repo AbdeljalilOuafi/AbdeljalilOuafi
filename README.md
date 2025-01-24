@@ -6,8 +6,6 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdeljalilOuafi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_views" /> </p>
-
 - 🔭 I’m currently working on [Threadly](https://github.com/AbdeljalilOuafi/Threadly) – A scalable social media platform built with modern technologies.
 - 🌱 I’m currently learning **React.js**
 - 📫 How to reach me: **cv.abdeljalilouafi@gmail.com**
@@ -153,4 +151,5 @@ Feel free to reach out for collaborations or just a chat about technology!
 </p>
 
 ---
-💡 "Building software that matters, from the bits up to the cloud."
+💡 "Building software that matters, from the bits up to the cloud." <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdeljalilOuafi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_views" /> </p>
+
