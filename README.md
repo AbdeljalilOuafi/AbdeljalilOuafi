@@ -132,7 +132,7 @@ You can explore my DevOps journey in detail through my repository: [alx-system_e
 </p>
 
 
-## 🌱 What I'm Focused On
+## 🌱 My Learning Journey  
 I believe in continuous learning and growth. While I'm comfortable with Python and have built several projects with it, I'm currently immersing myself in the Node.js ecosystem. I'm passionate about understanding different technologies deeply rather than just using them superficially.
 
 ## 📫 Let's Connect!
