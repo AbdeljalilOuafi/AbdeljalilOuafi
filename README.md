@@ -60,7 +60,12 @@ Actively expanding my Node.js expertise:
 
 ---
 
-## 🛠 DevOps Expertise <details><summary></summary>
+## 🛠 DevOps Expertise
+
+<details>
+<summary><strong>Summary</strong></summary>
+
+<br>
 
 I've built a solid foundation in DevOps, mastering essential concepts and tools to manage, automate, and optimize infrastructure. My hands-on experience spans:
 
