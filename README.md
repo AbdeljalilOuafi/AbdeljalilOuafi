@@ -15,9 +15,9 @@
 
 
 I have a solid foundation in low-level programming with C, demonstrated through projects like:
-- <a href="https://github.com/AbdeljallilOuafi/printf"><strong>printf</strong></a>: Custom implementation of the printf function from scratch, showcasing a deep understanding of C's memory management and variadic functions.
-- <a href="https://github.com/AbdeljallilOuafi/simple_shell"><strong>simple_shell</strong></a>: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management.
-- Highlighted complex data structures among numerous implementations, showcasing proficiency in advanced algorithmic design and low-level memory management: <a href="https://github.com/AbdeljallilOuafi/alx-low_level_programming/tree/master/0x1A-hash_tables"><strong>Hashmaps</strong></a>, <a href="https://github.com/AbdeljallilOuafi/monty"><strong>Stacks and Queues</strong></a>, and <a href="https://github.com/AbdeljallilOuafi/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists"><strong>Linked Lists</strong></a>.
+- <a href="https://github.com/AbdeljalilOuafi/printf"><strong>printf</strong></a>: Custom implementation of the printf function from scratch, showcasing a deep understanding of C's memory management and variadic functions.
+- <a href="https://github.com/AbdeljalilOuafi/simple_shell"><strong>simple_shell</strong></a>: A UNIX command line interpreter built entirely in C, implementing core shell functionality and process management.
+- Highlighted complex data structures among numerous implementations, showcasing proficiency in advanced algorithmic design and low-level memory management: <a href="https://github.com/AbdeljalilOuafi/alx-low_level_programming/tree/master/0x1A-hash_tables"><strong>Hash Table</strong></a>, <a href="https://github.com/AbdeljalilOuafi/monty"><strong>Stacks and Queues</strong></a>, and <a href="https://github.com/AbdeljalilOuafi/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists"><strong>Linked Lists</strong></a>.
 
 - <p>For those interested in exploring my C programming journey in depth, I invite you to check out my <a href="https://github.com/AbdeljalilOuafi/alx-low_level_programming"><strong>alx-low_level_programming</strong></a> repository, which comprehensively documents my mastery of C and low-level programming concepts.</p>
 
@@ -33,7 +33,7 @@ I have a solid foundation in low-level programming with C, demonstrated through 
 
 
 I created a full-stack **Airbnb Clone** using Flask, showcasing end-to-end development skills:
-- **[Airbnb Clone](https://github.com/AbdeljalilOuafi/Airbnb-clone)**: Implemented backend services in Flask, user authentication, dynamic search, and a responsive frontend.
+- **[Airbnb Clone](https://github.com/AbdeljalilOuafi/AirBnB_clone_v3)**: Implemented backend services in Flask, user authentication, dynamic search, and a responsive frontend.
 
 </details>
 
@@ -46,8 +46,8 @@ I created a full-stack **Airbnb Clone** using Flask, showcasing end-to-end devel
 
 
 I've built several production-ready marketplaces using Python and DRF:
-- **[Prime-Eats](https://github.com/AbdeljallilOuafi/Prime-Eats)**: A community-driven platform connecting restaurant owners with food enthusiasts.
-- **[Crafitori](https://github.com/AbdeljalilOuafi/Crafitori)**: An online marketplace for artisans featuring integrated PayPal payments and order management.
+- **[Prime-Eats](https://github.com/AbdeljalilOuafi/Prime-Eats)**: A community-driven platform connecting restaurant owners with food enthusiasts.
+- **[Crafitori](https://github.com/AbdeljalilOuafi/Crafitori)**: an online marketplace for handmade crafted goods connecting artisans with customers.
 
 </details>
 
@@ -60,7 +60,7 @@ I've built several production-ready marketplaces using Python and DRF:
 
 
 Actively expanding my Node.js expertise:
-- **[Files_Manager](https://github.com/AbdeljalilOuafi/alx-files_manager)**: A robust file management API built with Node.js, Express, MongoDB, and Redis.
+- **[Files_Manager](https://github.com/AbdeljalilOuafi/alx-files_manager)**: A robust file management API similar to Google Drive, built with Node.js, Express, MongoDB, and Redis.
 - 🔨 **Currently Working On**: A full-featured social media platform inspired by Facebook's architecture.
 
 </details>
