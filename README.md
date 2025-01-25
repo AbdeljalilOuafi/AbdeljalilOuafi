@@ -2,7 +2,7 @@
 
 <div style="text-align: left;">
 
-<p>I'm a passionate software engineer from Morocco <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg"> with a strong foundation in systems programming and a growing expertise in web development. My journey started with C programming, where I built complex systems from scratch, and continues to evolve as I explore modern web technologies.</p>
+<p>I'm a passionate software engineer with a strong foundation in systems programming and a growing expertise in web development. My journey started with C programming, where I built complex systems from scratch, and continues to evolve as I explore modern web technologies.</p>
 
 </div>
 
