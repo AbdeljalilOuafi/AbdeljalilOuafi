@@ -82,6 +82,7 @@ I've built a solid foundation in DevOps, mastering essential concepts and tools 
 - **Processes & Signals**: Comprehensive understanding of process management and signal handling.
 
 - **Networking Basics**: Explored **TCP/IP fundamentals**, **DNS**, **ports**, and other advanced topics.
+
 - **Regular Expressions**: Proficient in writing regex patterns for data parsing, validation, and transformations.  
 - **Web Infrastructure Design**: Conceptualized and documented scalable and resilient web architecture.  
 - **Configuration Management**: Hands-on experience with **Puppet**, automating deployment and ensuring consistency across systems.  
