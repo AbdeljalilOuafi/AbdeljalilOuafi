@@ -79,16 +79,16 @@ I've built a solid foundation in DevOps, mastering essential concepts and tools 
 
 - **Shell Scripting**: Mastered Shell Basics, Permissions, Redirections, Variables & Expansions, and advanced topics like Loops, Conditions & Parsing.
 - **Processes & Signals**: Comprehensive understanding of process management and signal handling.  
-- **Networking Basics**: Explored **TCP/IP fundamentals**, **DNS**, **ports**, and advanced topics in **Networking Basics 2**.  
+- **Networking Basics**: Explored **TCP/IP fundamentals**, **DNS**, **ports**, and other advanced topics.
 - **Regular Expressions**: Proficient in writing regex patterns for data parsing, validation, and transformations.  
 - **Web Infrastructure Design**: Conceptualized and documented scalable and resilient web architecture.  
 - **Configuration Management**: Hands-on experience with **Puppet**, automating deployment and ensuring consistency across systems.  
 - **SSH**: Expertise in secure remote server management and key-based authentication.  
 - **Web Servers & Load Balancing**: Proficient in setting up and configuring **Nginx**, **HAProxy**, and application servers.  
-- **HTTPS & SSL**: Implemented SSL certificates and enforced HTTPS for secure web communication.  
+- **HTTPS & SSL**: Implemented SSL certificates and enforced HTTPS for secure web communication using **Certbot**
 - **Firewall Management**: Configured firewalls to secure systems and control access.  
-- **Database Management**: Deployed and managed **MySQL** databases for web and application data.  
-- **APIs & Monitoring**: Built RESTful APIs (**API & API Advanced**) and implemented **Webstack Monitoring** to ensure uptime and performance.  
+- **Database Management**: Deployed and managed **MySQL** and *PostgreSQL* databases for web and application data.  
+- **APIs & Monitoring**: Built RESTful APIs and implemented **Webstack Monitoring** to ensure uptime and performance using **Datadog**
 - **Incident Response**: Prepared **Postmortems** to document and learn from outages and incidents.
 
 You can explore my DevOps journey in detail through my repository: [alx-system_engineering-devops](https://github.com/AbdeljalilOuafi/alx-system_engineering-devops).
