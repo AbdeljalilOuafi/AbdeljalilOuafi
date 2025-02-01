@@ -35,10 +35,7 @@ I have a solid foundation in low-level programming with C, demonstrated through 
 <br> 
 
 
-
-I created a full-stack **Airbnb Clone** using Flask, showcasing end-to-end development skills:
-- **[Airbnb Clone](https://github.com/AbdeljalilOuafi/AirBnB_clone_v3)**: Implemented backend services in Flask, user authentication, dynamic search, and a responsive frontend.
-
+- **[Airbnb Clone](https://github.com/AbdeljalilOuafi/AirBnB_clone_v3)**: A full-stack Airbnb clone showcasing end-to-end development, built with Flask, MySQL, SQLAlchemy, HTML, CSS, and jQuery. Deployed on AWS using Nginx as a web server and HAProxy as a load balancer.
 </details>
 
 ---
