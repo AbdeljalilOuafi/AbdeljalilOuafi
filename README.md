@@ -78,7 +78,9 @@ Actively expanding my Node.js expertise:
 I've built a solid foundation in DevOps, mastering essential concepts and tools to manage, automate, and optimize infrastructure. My hands-on experience spans:
 
 - **Shell Scripting**: Mastered Shell Basics, Permissions, Redirections, Variables & Expansions, and advanced topics like Loops, Conditions & Parsing.
-- **Processes & Signals**: Comprehensive understanding of process management and signal handling.  
+
+- **Processes & Signals**: Comprehensive understanding of process management and signal handling.
+
 - **Networking Basics**: Explored **TCP/IP fundamentals**, **DNS**, **ports**, and other advanced topics.
 - **Regular Expressions**: Proficient in writing regex patterns for data parsing, validation, and transformations.  
 - **Web Infrastructure Design**: Conceptualized and documented scalable and resilient web architecture.  
