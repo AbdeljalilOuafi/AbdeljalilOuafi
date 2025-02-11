@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Threadly](https://github.com/AbdeljalilOuafi/Threadly) – A scalable social media platform built with modern technologies.
 - 🌱 I’m currently learning **React.js**
-- 📫 How to reach me: **cv.abdeljalilouafi@gmail.com**
+- 📫 How to reach me: **abdeljalilouafi55@gmail.com**
 
 ## 💻 Core Experience
 
