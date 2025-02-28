@@ -7,7 +7,7 @@
 </div>
 
 - 🌱 I’m currently learning **React.js**
-- 📫 How to reach me: **abdeljalilouafi55@gmail.com**
+- 📫 How to reach me: **cv.ouafiabdeljalil@gmail.com**
 
 ## 💻 Core Experience
 
@@ -141,7 +141,7 @@ Feel free to reach out for collaborations or just a chat about technology!
   <a href="https://www.linkedin.com/in/abdeljalil-ouafi-8036a7266/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:abdeljalilouafi55@gmail.com" target="blank">
+  <a href="mailto:cv.ouafiabdeljalil@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" width="40" />
   </a>
   <a href="https://discord.com/users/358664072377532417" target="blank">
